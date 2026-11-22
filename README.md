@@ -1,2 +1,26 @@
-# test-ord_292b7947ee4a66658d94922bca2b59c662ef190188fe724ca8e75eeca792cf37
-Website for Brindlewood Heating &amp; Plumbing — built by GitFoundry
+# Brindlewood Heating & Plumbing
+
+Your website built by [GitFoundry](https://gitfoundry.co.uk).
+
+## Your files
+
+- `404.html`
+- `assets/img/hero.jpg`
+- `assets/img/triptych-2.jpg`
+- `assets/img/triptych-3.jpg`
+- `assets/img/triptych.jpg`
+- `favicon.svg`
+- `index.html`
+- `mobile-nav.js`
+- `og-image.png`
+- `robots.txt`
+- `sitemap.xml`
+- `styles.css`
+
+## Making changes
+
+Edit any HTML or CSS file directly on GitHub, or [contact GitFoundry](https://gitfoundry.co.uk/contact.html) for updates.
+
+## Transferring this repository
+
+If you'd like to own this repository outright, [contact GitFoundry](https://gitfoundry.co.uk/contact.html) with your GitHub username.
